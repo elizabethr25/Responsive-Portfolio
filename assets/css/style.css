@@ -124,7 +124,7 @@ h3, h2 {
 
 .sidebar {
     float: right;
-    width: 50%;
+    width: 30%;
     max-width: 270px;
     padding: 30px;
     margin-bottom: 20px;
@@ -143,8 +143,9 @@ h3,
 }
 
 .social {
-    width: 62px;
-    height: 62px;
+    width: 100px;
+    height: 100px;
+    width: 100%;
     margin-top: 8px;
     margin-right: 5px;
 }
@@ -162,7 +163,7 @@ h3,
 
 .main-section {
     float: left;
-    width: 100%;
+    width: 70%;
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
@@ -291,12 +292,16 @@ input[type=submit] {
     }
 
     .main-container {
-        width: 100%;
+        width: 50%;
         display: block;
         margin-top: 50px;
         margin-right: 30px;
         margin-bottom: 50px;
         margin-left: 30px;
+    }
+
+    .sidebar {
+        width: 50%;
     }
 }
 
@@ -382,6 +387,11 @@ input[type=submit] {
         margin-right: 30px;
         margin-bottom: 50px;
         margin-left: 30px;
+    }
+
+    .sidebar {
+        width: 100%;
+        margin-top: 20px;
     }
 
 }
