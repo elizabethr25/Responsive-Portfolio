@@ -124,7 +124,7 @@ h3, h2 {
 
 .sidebar {
     float: right;
-    width: 100%;
+    width: 50%;
     max-width: 270px;
     padding: 30px;
     margin-bottom: 20px;
