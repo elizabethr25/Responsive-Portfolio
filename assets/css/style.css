@@ -264,7 +264,6 @@ input[type=submit] {
         float: left;
         margin-left: 20px;
         display: block;
-        background-color: pink;
     }
     
     nav {
@@ -306,7 +305,6 @@ input[type=submit] {
         float: left;
         margin-left: 20px;
         display: block;
-        background-color: red;
     }
     
     nav {
@@ -358,7 +356,6 @@ input[type=submit] {
         clear: both;
         text-align: center;
         overflow: hidden;
-        background-color: green;
     }
 
     #masthead {
